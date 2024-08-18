@@ -6,7 +6,7 @@
 <details>
 <summary>Screenshot</summary>
 <br>
-![Tissue Clicker](/public/tissue-clicker.png)
+<img src="/public/tissue-clicker.png" alt="tissue-clicker" />
 </details>
 
 
