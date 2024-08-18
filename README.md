@@ -1,8 +1,11 @@
 <h1 align="center">Hi 👋, I'm Marty</h1>
 <h3 align="center">Newly graduated Software Engineer from General Assembly</h3>
 
-- 🔭 I’m currently working on [Tissue Clicker](https://github.com/MartyEternal/personal-projects/tree/main/tissue-clicker)
+<details>
+<summary>- 🔭 I’m currently working on [Tissue Clicker](https://github.com/MartyEternal/personal-projects/tree/main/tissue-clicker)</summary>
+<br>
 ![Tissue Clicker](/public/tissue-clicker.png)
+</details>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
