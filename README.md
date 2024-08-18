@@ -2,7 +2,6 @@
 <h3 align="center">Newly graduated Software Engineer from General Assembly</h3>
 
 - 🔭 I’m currently working on [Tissue Clicker](https://github.com/MartyEternal/personal-projects/tree/main/tissue-clicker)
-![Tissue Clicker](/public/tissue-clicker.png)
 <details>
 <summary>Screenshot</summary>
 <br>
